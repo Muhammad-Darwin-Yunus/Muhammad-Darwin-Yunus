@@ -2,7 +2,7 @@
 <h3 align="center">Data is life.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes](https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes)
+- 👨‍💻 All my Tableau projects are available on [https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes](https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes)
 
 - 📝 I regularly write articles on [a](a)
 
