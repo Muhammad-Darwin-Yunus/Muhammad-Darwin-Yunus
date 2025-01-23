@@ -1,13 +1,6 @@
 <h1 align="center">Hello, I'm Muhammad Darwin Yunus</h1>
 <h3 align="center">Data is life.</h3>
 
-- 🔭 I’m currently working on [a](a)
-
-- 🌱 I’m currently learning **a**
-
-- 👯 I’m looking to collaborate on [a](a)
-
-- 🤝 I’m looking for help with [a](a)
 
 - 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes](https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes)
 
