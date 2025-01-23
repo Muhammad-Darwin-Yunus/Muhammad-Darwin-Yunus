@@ -4,11 +4,7 @@
 
 - 👨‍💻 All my Tableau projects are available on [Link Tableau](https://public.tableau.com/app/profile/muhammad.darwin.yunus/vizzes)
 
-- 📝 I regularly write articles on [a](a)
-
-- 💬 Ask me about **a**
-
-- 📫 How to reach me **a**
+- 📫 How to reach me **muhdarwinyunus02@gmail.com**
 
 - 📄 Know about my experiences [a](a)
 
